@@ -6,7 +6,7 @@ QIAN Kun, DING Yayi     19fall ICDE program
 request.pdf : project request
 report.pdf  : summary report
 SIMD.v      : the top level
-  addition---------------add.v
+  addition---------------add.v  \n
   subtraction------------sub.v
   mux--------------------multi.v
   MAC--------------------multi.v
