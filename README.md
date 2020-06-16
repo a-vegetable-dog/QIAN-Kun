@@ -1,6 +1,6 @@
 SIMD processor based on verilog
 ===============================
-HKUST EESM5020 Digital VLSI System Design and Design Automation    course project
+HKUST EESM5020 Digital VLSI System Design and Design Automation    course project    
 QIAN Kun, DING Yayi     19fall ICDE program 
 
 files
